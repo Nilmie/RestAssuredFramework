@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-18T06:45:35Z" name="Default suite" finished-at="2020-12-18T06:45:37Z" duration-ms="2251">
+    <groups>
+    </groups>
+    <test started-at="2020-12-18T06:45:35Z" name="Default test" finished-at="2020-12-18T06:45:37Z" duration-ms="2251">
+      <class name="Test.GetEmployees">
+        <test-method signature="DeleteEmployee()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:35Z" name="DeleteEmployee" finished-at="2020-12-18T12:15:37Z" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteEmployee -->
+        <test-method signature="GetEmployee()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:37Z" name="GetEmployee" finished-at="2020-12-18T12:15:37Z" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployee -->
+        <test-method signature="GetEmployee2()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:37Z" name="GetEmployee2" finished-at="2020-12-18T12:15:37Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployee2 -->
+        <test-method signature="GetEmployee3()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:37Z" name="GetEmployee3" finished-at="2020-12-18T12:15:37Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployee3 -->
+        <test-method signature="PostEmployee()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:37Z" name="PostEmployee" finished-at="2020-12-18T12:15:37Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostEmployee -->
+        <test-method signature="PutEmployee()[pri:0, instance:Test.GetEmployees@6d7fc27]" started-at="2020-12-18T12:15:37Z" name="PutEmployee" finished-at="2020-12-18T12:15:37Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutEmployee -->
+      </class> <!-- Test.GetEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
